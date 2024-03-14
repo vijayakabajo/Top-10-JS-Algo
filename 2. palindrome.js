@@ -1,3 +1,7 @@
+
+//------------------------------------------------------------------------------------------------//
+
+
 function palindrome(str){
     let temp=str;
     let reversed = str.split('').reverse().join('');
