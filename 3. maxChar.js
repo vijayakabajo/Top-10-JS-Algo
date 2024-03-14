@@ -1,7 +1,7 @@
 function maxChar(str){
-    let charMap = {};
+    let charMap = {};   //charmap
     let max = 0;
-    let maxChar = ''       //Character set
+    let maxChar = ''     
 
 
     // for(char of str){
